@@ -1,12 +1,12 @@
 IF-PCA
 
 This archive contains a Matlab implementation of IF-PCA algorithm as described in the paper 
-J. Jin and W. Wang (2014) Important Features PCA for High Dimensional Clustering
+J. Jin and W. Wang (2014) Influential Features PCA for High Dimensional Clustering
 
 
 Current version 
 
-V1.1
+V1.2
 
 
 SHORT DOCUMENTATION
@@ -53,5 +53,5 @@ If you use this code for your publication, please include a reference to the pap
 CONTACT
 For any problem, please contact
 Wanjie Wang 
-at University of Pennysylvania, Statistics Department
-Email: wanjiew@wharton.upenn.edu
+at National University of Singapore
+Email: wanjie.wang@nus.edu.sg
